@@ -134,3 +134,5 @@ Releases are packaged versions of the software. SemVer uses three numbers: `Majo
 
 ### Release Management: 
 The process of moving a version through stages (Development → Testing/Staging → Production/Live) and managing the actual deployment, including rollback plans if things go wrong.
+
+<img width="2816" height="1536" alt="ProjectManagement" src="https://github.com/user-attachments/assets/3b4f01a4-3be0-4923-b9ab-d30a557a0aab" />
