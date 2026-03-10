@@ -34,7 +34,8 @@ Discipline: Structured documentation and approval gates.
 Simplicity: Easy to understand and manage for straightforward projects.
 The Downfall in Software: Waterfall assumes requirements are fixed. In software, requirements always change. This led to massive project failures: projects delivered over budget, behind schedule, and with features the customer no longer needed.
 
-<img width="458" height="741" alt="Screenshot 2026-03-10 at 7 34 56 PM" src="https://github.com/user-attachments/assets/273e4424-90a5-46da-b891-1c2bdf89392b" />
+<img width="2816" height="1536" alt="image" src="https://github.com/user-attachments/assets/87bd6587-cd18-40f1-a7bc-0f595753f2d3" />
+
 
 
 ## Chapter 2: The Modern Approach – Agile
