@@ -34,6 +34,9 @@ Discipline: Structured documentation and approval gates.
 Simplicity: Easy to understand and manage for straightforward projects.
 The Downfall in Software: Waterfall assumes requirements are fixed. In software, requirements always change. This led to massive project failures: projects delivered over budget, behind schedule, and with features the customer no longer needed.
 
+<img width="458" height="741" alt="Screenshot 2026-03-10 at 7 34 56 PM" src="https://github.com/user-attachments/assets/273e4424-90a5-46da-b891-1c2bdf89392b" />
+
+
 ## Chapter 2: The Modern Approach – Agile
 
 Agile isn't a single methodology; it's a philosophy formalized in the Agile Manifesto (2001). It was created by software developers frustrated with Waterfall. It prioritizes:
