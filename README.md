@@ -1,6 +1,6 @@
 # Foundations of Project Management
 
-###Introduction: What is Project Management?
+### Introduction: What is Project Management?
 
 Project Management is the discipline of planning, organizing, motivating, and controlling resources to achieve specific goals. Every project is a temporary endeavor; it has a defined beginning and end, and a specific scope and budget. The ultimate goal is to deliver value to the organization or customer.
 
@@ -22,7 +22,7 @@ Before software, there was manufacturing and construction. This is where the Wat
 5. **Deployment**: The product is delivered to the customer.
 6. **Maintenance**: Fixing issues post-launch.
 
-Benefits:
+### Benefits:
 
 Predictability: Clear timelines and budgets if requirements don’t change.
 Discipline: Structured documentation and approval gates.
@@ -34,8 +34,7 @@ The Downfall in Software: Waterfall assumes requirements are fixed. In software,
 Waterfall assumes requirements are fixed. In software, requirements always change. This led to massive project failures: projects delivered over budget, behind schedule, and with features the customer no longer needed. Introduction: What is Project Management?
 
 
-<img width="2816" height="1536" alt="image" src="https://github.com/user-attachments/assets/87bd6587-cd18-40f1-a7bc-0f595753f2d3" />
-
+<img width="459" height="741" alt="Screenshot 2026-03-10 at 7 49 42 PM" src="https://github.com/user-attachments/assets/b9232951-b6c3-4ddc-9306-287857a8c4d8" />
 
 
 ## Chapter 2: The Modern Approach – Agile
