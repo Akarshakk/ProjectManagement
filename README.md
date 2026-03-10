@@ -1,4 +1,4 @@
-# Project Management Gui### Benefits:
+# Project Management :
 
 - **Predictability**: Clear timelines and budgets if requirements don't change.
 - **Discipline**: Structured documentation and approval gates.
