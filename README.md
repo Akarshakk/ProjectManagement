@@ -31,7 +31,7 @@ The Downfall in Software: Waterfall assumes requirements are fixed. In software,
 
 
 ### The Downfall in Software:
-Waterfall assumes requirements are fixed. In software, requirements always change. This led to massive project failures: projects delivered over budget, behind schedule, and with features the customer no longer needed. Introduction: What is Project Management?
+Waterfall assumes requirements are fixed. In software, requirements always change. This led to massive project failures: projects delivered over budget, behind schedule, and with features the customer no longer needed.
 
 
 <img width="459" height="741" alt="Screenshot 2026-03-10 at 7 49 42 PM" src="https://github.com/user-attachments/assets/b9232951-b6c3-4ddc-9306-287857a8c4d8" />
