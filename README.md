@@ -49,6 +49,9 @@ Agile isn't a single methodology; it's a philosophy formalized in the Agile Mani
 ### Key Concepts: 
 **Iterative** (doing things repeatedly) and **Incremental** (adding small pieces). Instead of one big release, you release small, working parts of the software frequently.
 
+<img width="455" height="735" alt="Screenshot 2026-03-10 at 7 35 42 PM" src="https://github.com/user-attachments/assets/086cc171-6878-478b-beeb-ffe04ac1f8fa" />
+
+
 ## Chapter 3: Implementing Agile – Scrum & Kanban
 
 Agile is the philosophy; Scrum and Kanban are the frameworks used to do Agile.
@@ -108,6 +111,8 @@ Zendesk is a customer service platform. It's where customers submit support requ
 2. The support agent confirms it's a bug.
 3. Instead of re-typing everything, the agent uses an integration to create a linked Jira issue directly from the Zendesk ticket.
 4. When developers fix the bug and close the Jira issue, the Zendesk ticket can be automatically updated or solved, and the support agent can notify the customer.
+
+<img width="457" height="738" alt="Screenshot 2026-03-10 at 7 37 17 PM" src="https://github.com/user-attachments/assets/daace50b-b127-432a-8d75-00a5dc044254" />
 
 
 ## Chapter 6: Product Ideation and Roadmapping
