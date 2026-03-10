@@ -68,6 +68,9 @@ Agile is the philosophy; Scrum and Kanban are the frameworks used to do Agile.
 - **WIP Limits**: Restricting the amount of work in progress to prevent bottlenecks.
 - **Flow**: Work moves through the board continuously, rather than in fixed sprints.
 
+<img width="462" height="735" alt="Screenshot 2026-03-10 at 7 40 09 PM" src="https://github.com/user-attachments/assets/ca896ac1-f9ee-4114-a069-7852cbe485b7" />
+
+
 ## Chapter 4: The Best of Both Worlds – Hybrid
 
 Many companies use a Hybrid approach. They might use Waterfall for high-level planning and budgeting but switch to Agile (Scrum or Kanban) for the day-to-day development work.
@@ -77,7 +80,6 @@ Many companies use a Hybrid approach. They might use Waterfall for high-level pl
 # Part 2: Project Management in SaaS Companies
 
 Software as a Service (SaaS) companies develop and maintain software hosted in the cloud. They are almost universally Agile because they need to deploy updates frequently (sometimes daily) based on user feedback.
-
 
 ## Chapter 5: Tools of the Trade
 
