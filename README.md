@@ -4,7 +4,7 @@
 
 Project Management is the discipline of planning, organizing, motivating, and controlling resources to achieve specific goals. Every project is a temporary endeavor; it has a defined beginning and end, and a specific scope and budget. The ultimate goal is to deliver value to the organization or customer.
 
----
+--
 
 # Part 1: The Evolution of Frameworks (The Methodologies)
 
