@@ -28,10 +28,7 @@ Predictability: Clear timelines and budgets if requirements don’t change.
 Discipline: Structured documentation and approval gates.
 Simplicity: Easy to understand and manage for straightforward projects.
 
-### The Downfall in Software: Waterfall assumes requirements are fixed. In software, requirements always change. This led to massive project failures: projects delivered over budget, behind schedule, and with features the customer no longer needed.
-
-
-### The Downfall in Software:
+### The Downfall in Software: 
 Waterfall assumes requirements are fixed. In software, requirements always change. This led to massive project failures: projects delivered over budget, behind schedule, and with features the customer no longer needed.
 
 
