@@ -123,7 +123,7 @@ How do SaaS companies decide what to build next?
 2. **Prioritization**: PMs evaluate ideas based on business value, effort, and strategic alignment (often using frameworks like RICE: Reach, Impact, Confidence, Effort).
 3. **Product Roadmap**: A high-level, visual summary showing the vision and direction of the product offering over time. This roadmap is then broken down into Epics and User Stories in Jira for the development team.
 
---
+---
 
 ## Chapter 7: Version Control and Releases
 
